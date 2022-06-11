@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Suyog404/food-shop.git/static/css/main.4f620050.css",
+    "main.js": "/Suyog404/food-shop.git/static/js/main.df8baffa.js",
+    "static/media/logo.png": "/Suyog404/food-shop.git/static/media/logo.bda6e975d7dcde1923a6.png",
+    "index.html": "/Suyog404/food-shop.git/index.html",
+    "main.4f620050.css.map": "/Suyog404/food-shop.git/static/css/main.4f620050.css.map",
+    "main.df8baffa.js.map": "/Suyog404/food-shop.git/static/js/main.df8baffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f620050.css",
+    "static/js/main.df8baffa.js"
+  ]
+}
